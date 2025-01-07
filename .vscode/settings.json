@@ -1,0 +1,7 @@
+{
+    "gitlens.currentLine.format": "03372a86-2788-4b0f-9532-5c06c382a7aa",
+    "gitlens.views.formats.stashes.label": "${message}",
+    "gitlens.views.formats.stashes.description": "${stashOnRef, }${agoOrDate}",
+    "gitlens.defaultDateLocale": null,
+    "gitlens.terminalLinks.showDetailsView": true
+}
